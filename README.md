@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there 👋, I'm Gerry! 
 
-<!--
-**GerryHasrom/GerryHasrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** and **Android Developer** passionate about building impactful applications. I love solving problems and exploring new technologies to create efficient and scalable solutions. 🚀
 
-Here are some ideas to get you started:
+### 🔭 Currently working on:
+- Developing mobile apps using **Flutter** and **Android Studio**.
+- Exploring **AI** and **Machine Learning** technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- **Dart** and **Flutter** to build beautiful and responsive mobile apps.
+- **TensorFlow** and **PyTorch** for machine learning.
+
+### 👯 I’m looking to collaborate on:
+- Open-source Android projects or mobile app development.
+- AI-based applications and contributions to the tech community.
+
+### 💬 Ask me about:
+- **Android Development** 📱
+- **Flutter** 🚀
+- **Machine Learning** 🤖
+- Or anything related to tech! 💻
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/gerryhasrom)
+- [Twitter](https://twitter.com/gerryhasrom)
+- [Email](mailto:gerryhasrom@example.com)
+
+### 😄 Pronouns:
+- He/Him
+
+### ⚡ Fun fact:
+- I love solving puzzles and playing chess in my free time! ♟️
+
+### 🎯 WakaTime Stats
+![WakaTime](https://wakatime.com/badge/user/your_username.svg)
+
+---
