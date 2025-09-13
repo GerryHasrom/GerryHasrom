@@ -11,7 +11,6 @@
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gerryhasrom&label=Profile%20views&color=0e75b6&style=flat" alt="gerryhasrom" />
   <img src="https://img.shields.io/badge/Software%20Developer-green?style=for-the-badge" alt="Software Developer" />
   <img src="https://img.shields.io/badge/Web%20Developer-blue?style=for-the-badge" alt="Web Developer" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-purple?style=for-the-badge" alt="Full Stack Developer" />
