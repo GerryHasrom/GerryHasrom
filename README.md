@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=gerryhasrom&label=Profile%20views&color=0e75b6&style=flat" alt="gerryhasrom" />
 </p>
 
+![Keren Juga](https://img.shields.io/badge/Author-GerryHasrom-blue?style=for-the-badge)
+![Anak mama Juga](https://img.shields.io/badge/Author-GerryHasrom-blue?style=for-the-badge)
 ---
 
 ### 🚀 About Me
