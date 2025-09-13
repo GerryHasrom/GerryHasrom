@@ -3,13 +3,17 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gerryhasrom&label=Profile%20views&color=0e75b6&style=flat" alt="gerryhasrom" />
-  <img src="https://img.shields.io/badge/Keren%20Juga-GerryHasrom-blue?style=for-the-badge" alt="Keren Juga Gerry Hasrom" />
-  <img src="https://img.shields.io/badge/Anak%20Mama-GerryHasrom-orange?style=for-the-badge" alt="Anak Mama Gerry Hasrom" />
-  <img src="https://img.shields.io/badge/Abang%20Abangan%20Imo-GerryHasrom-red?style=for-the-badge" alt="Abang Abangan Imo" />
+  <img src="https://img.shields.io/badge/Software%20Developer-green?style=for-the-badge" alt="Software Developer" />
+  <img src="https://img.shields.io/badge/Web%20Developer-blue?style=for-the-badge" alt="Web Developer" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-purple?style=for-the-badge" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Keren%20Juga-cyan?style=for-the-badge" alt="Keren Juga" />
+  <img src="https://img.shields.io/badge/Anak%20Mama-orange?style=for-the-badge" alt="Anak Mama" />
+  <img src="https://img.shields.io/badge/Abang%20Abangan%20Imo-red?style=for-the-badge" alt="Abang Abangan Imo" />
+  <img src="https://img.shields.io/badge/INTJ-A-yellow?style=for-the-badge" alt="INTJ-A" />
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="Made with Python" />
+  <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="Powered by Electricity" />
 </p>
 
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
-![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 
 ---
 
