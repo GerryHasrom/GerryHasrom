@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/Keren%20Juga-cyan?style=for-the-badge" alt="Keren Juga" />
   <img src="https://img.shields.io/badge/Anak%20Mama-orange?style=for-the-badge" alt="Anak Mama" />
   <img src="https://img.shields.io/badge/Abang%20Abangan%20Imo-red?style=for-the-badge" alt="Abang Abangan Imo" />
-  <img src="https://img.shields.io/badge/INTJ-A-yellow?style=for-the-badge" alt="INTJ-A" />
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="Made with Python" />
-  <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="Powered by Electricity" />
+  <img src="https://img.shields.io/badge/INTJ%20Assertive-yellow?style=for-the-badge" alt="INTJ-A" />
 </p>
 
 
