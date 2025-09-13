@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/Anak%20Mama-GerryHasrom-orange?style=for-the-badge" alt="Anak Mama Gerry Hasrom" />
   <img src="https://img.shields.io/badge/Abang%20Abangan%20Imo-GerryHasrom-red?style=for-the-badge" alt="Abang Abangan Imo" />
 </p>
+
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+
 ---
 
 ### 🚀 About Me
