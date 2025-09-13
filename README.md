@@ -10,8 +10,6 @@
   </tr>
 </table>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gerryhasrom&label=Profile%20views&color=0e75b6&style=flat" alt="gerryhasrom" />
   <img src="https://img.shields.io/badge/Software%20Developer-green?style=for-the-badge" alt="Software Developer" />
@@ -22,6 +20,8 @@
   <img src="https://img.shields.io/badge/Abang%20Abangan%20Imo-red?style=for-the-badge" alt="Abang Abangan Imo" />
   <img src="https://img.shields.io/badge/INTJ%20Assertive-yellow?style=for-the-badge" alt="INTJ-A" />
 </p>
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gerryhasrom&theme=highcontrast)](https://git.io/streak-stats)
 
