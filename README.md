@@ -22,6 +22,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="assets/profile.gif" alt="Profile GIF" />
+</p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gerryhasrom&theme=highcontrast)](https://git.io/streak-stats)
 
