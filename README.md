@@ -4,11 +4,16 @@
       <img src="https://komarev.com/ghpvc/?username=gerryhasrom&label=Profile%20views&color=0e75b6&style=flat" alt="gerryhasrom" />
     </td>
     <td style="padding-left: 20px;">
-      <h1>Hi 👋, I'm Gerry Hasrom</h1>
+      <h1 align="center">
+        Hi 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="40"/>
+        , I'm Gerry Hasrom
+      </h1>
       <h3><b><i>Actions speak louder than words.</i></b></h3>
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Developer-red?style=for-the-badge" alt="Software Developer" />
