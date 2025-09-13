@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gerry Hasrom</h1>
-<h3 align="center">Male | 2004 | Eldest </h3>
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=gerryhasrom&label=Profile%20views&color=0e75b6&style=flat" alt="gerryhasrom" />
+  <span>
+    <h1 align="center">Hi 👋, I'm Gerry Hasrom</h1>
+    <h3 align="center">Male | 2004 | Eldest</h3>
+  </span>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gerryhasrom&label=Profile%20views&color=0e75b6&style=flat" alt="gerryhasrom" />
