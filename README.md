@@ -3,9 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gerryhasrom&label=Profile%20views&color=0e75b6&style=flat" alt="gerryhasrom" />
-  <img src="https://img.shields.io/badge/Author-GerryHasrom-blue?style=for-the-badge" alt="Author GerryHasrom" />
-  <img src="https://img.shields.io/badge/CLI-Hacks-blueviolet?style=for-the-badge" alt="CLI Hacks" />
-  <img src="https://img.shields.io/badge/Library-InquirerPy-orange?style=for-the-badge" alt="InquirerPy" />
+  <img src="https://img.shields.io/badge/Keren%20Juga-GerryHasrom-blue?style=for-the-badge" alt="Keren Juga Gerry Hasrom" />
+  <img src="https://img.shields.io/badge/Anak%20Mama-GerryHasrom-orange?style=for-the-badge" alt="Anak Mama Gerry Hasrom" />
+  <img src="https://img.shields.io/badge/Abang%20Abangan-Imo-red?style=for-the-badge" alt="Abang Abangan Imo" />
 </p>
 ---
 
