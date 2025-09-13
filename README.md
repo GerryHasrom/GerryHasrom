@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Software%20Developer-red?style=for-the-badge" alt="Software Developer" />
   <img src="https://img.shields.io/badge/Web%20Developer-blue?style=for-the-badge" alt="Web Developer" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-purple?style=for-the-badge" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Her%20Developer-navy?style=for-the-badge" alt="Anak Mama" />
   <img src="https://img.shields.io/badge/Keren%20Juga-cyan?style=for-the-badge" alt="Keren Juga" />
   <img src="https://img.shields.io/badge/Anak%20Mama-orange?style=for-the-badge" alt="Anak Mama" />
   <img src="https://img.shields.io/badge/Abang%20Abangan%20Imo-white?style=for-the-badge" alt="Abang Abangan Imo" />
