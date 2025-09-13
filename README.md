@@ -10,8 +10,9 @@
   <img src="https://img.shields.io/badge/Anak%20Mama-orange?style=for-the-badge" alt="Anak Mama" />
   <img src="https://img.shields.io/badge/Abang%20Abangan%20Imo-red?style=for-the-badge" alt="Abang Abangan Imo" />
   <img src="https://img.shields.io/badge/INTJ%20Assertive-yellow?style=for-the-badge" alt="INTJ-A" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=gerryhasrom&theme=highcontrast)](https://git.io/streak-stats)
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gerryhasrom&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Gerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerryhasrom&show_icons=true&theme=tokyonight)
 
