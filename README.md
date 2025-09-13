@@ -5,7 +5,7 @@
     </td>
     <td style="padding-left: 20px;">
       <h1>Hi 👋, I'm Gerry Hasrom</h1>
-      <h3>Create your own path</h3>
+      <h3><b><i>Actions speak louder than words.</i></b></h3>
     </td>
   </tr>
 </table>
