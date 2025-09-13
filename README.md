@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Python, Flutter, AI & Firebase**  
+- 🌱 Currently learning **Python, Java, Flutter, AI & Firebase**  
 - 👨‍💻 Check out my projects here: [GitHub/GerryHasrom](https://github.com/GerryHasrom)  
 - 💬 Happy to chat about **Python, AI, and Android**  
 - 📫 Reach me at **gerryhasrom25@gmail.com**  
