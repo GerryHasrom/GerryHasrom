@@ -3,10 +3,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gerryhasrom&label=Profile%20views&color=0e75b6&style=flat" alt="gerryhasrom" />
+  <img src="https://img.shields.io/badge/Author-GerryHasrom-blue?style=for-the-badge" alt="Author GerryHasrom" />
+  <img src="https://img.shields.io/badge/CLI-Hacks-blueviolet?style=for-the-badge" alt="CLI Hacks" />
+  <img src="https://img.shields.io/badge/Library-InquirerPy-orange?style=for-the-badge" alt="InquirerPy" />
 </p>
-
-![Keren Juga](https://img.shields.io/badge/Author-GerryHasrom-blue?style=for-the-badge)
-![Anak mama Juga](https://img.shields.io/badge/Author-GerryHasrom-blue?style=for-the-badge)
 ---
 
 ### 🚀 About Me
