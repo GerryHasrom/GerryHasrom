@@ -24,7 +24,10 @@
 ---
 <p align="center">
   <img src="assets/profile.gif" alt="Profile GIF" />
+  <br>
+  <b><i>aku dan error di jam 3 pagi</i></b>
 </p>
+---
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gerryhasrom&theme=highcontrast)](https://git.io/streak-stats)
