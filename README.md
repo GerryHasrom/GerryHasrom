@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/INTJ%20Assertive-yellow?style=for-the-badge" alt="INTJ-A" />
 </p>
 
+![Gerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerryhasrom&show_icons=true&theme=tokyonight)
+
 
 ---
 
