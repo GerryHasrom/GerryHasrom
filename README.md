@@ -62,18 +62,13 @@
     </td>
   </tr>
   <tr>
-    <td>Mobile</td>
+    <td>Framework</td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/> Flutter
     </td>
   </tr>
-  <tr>
-    <td>Framework</td>
-    <td>
-      Flutter
-    </td>
-  </tr>
 </table>
+
 
 
 
