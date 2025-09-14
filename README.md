@@ -35,34 +35,46 @@
 ---
 <h1 align="center"><b>Skills</b></h1>
 
-<table align="center">
+<table align="center" cellpadding="10">
   <tr>
-    <th>Programming</th>
-    <th>Frontend</th>
-    <th>Backend</th>
+    <th>Category</th>
+    <th>Skills</th>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/><br>Python</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/><br>HTML5</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/><br>MySQL</td>
+    <td>Programming</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> JavaScript
+    </td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/><br>JavaScript</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/><br>CSS3</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="60"/><br>Firebase</td>
+    <td>Frontend</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/> HTML5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/> CSS3
+    </td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/> MySQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/> Firebase
+    </td>
+  </tr>
+  <tr>
+    <td>Mobile</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/> Flutter
+    </td>
+  </tr>
+  <tr>
+    <td>Framework</td>
+    <td>
+      Flutter
+    </td>
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <th>Mobile</th>
-    <th>Framework</th>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60"/><br>Flutter</td>
-    <td>Flutter</td>
-  </tr>
-</table>
 
 
 
