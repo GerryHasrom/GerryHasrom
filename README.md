@@ -72,7 +72,7 @@
 
 ---
 
-<h2 align="center"><b>About Me</b></h2>
+<h1 align="center"><b>About Me</b></h1>
 
 <p align="center">
   <img src="assets/biodata.png" alt="Biodata Gerry Hasrom" width="600" height="400" />
