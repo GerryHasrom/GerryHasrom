@@ -80,9 +80,10 @@
 
 ---
 
----
+<p align="center">
+  <b><big>🌐 Connect with Me</big></b>
+</p>
 
-### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.tiktok.com/"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
