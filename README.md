@@ -30,7 +30,7 @@
 <p align="center">
   <img src="assets/profile.gif" alt="Profile GIF" />
   <br>
-  <b><i>brainware vs error program</i></b>
+  <b><i></i></b>
 </p>
 
 ---
