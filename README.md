@@ -30,7 +30,7 @@
 <p align="center">
   <img src="assets/profile.gif" alt="Profile GIF" />
   <br>
-  <b><i>aku dan error di jam 3 pagi</i></b>
+  <b><i>brainware vs error program</i></b>
 </p>
 
 ---
