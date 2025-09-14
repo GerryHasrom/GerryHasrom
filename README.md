@@ -14,7 +14,6 @@
   </tr>
 </table>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Developer-red?style=for-the-badge" alt="Software Developer" />
   <img src="https://img.shields.io/badge/Web%20Developer-blue?style=for-the-badge" alt="Web Developer" />
@@ -34,6 +33,7 @@
 </p>
 
 ---
+<h1> <b>Skills</b></h1>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gerryhasrom&theme=highcontrast)](https://git.io/streak-stats)
