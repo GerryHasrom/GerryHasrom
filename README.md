@@ -72,19 +72,12 @@
 
 ---
 
-<h1 align="center">👤 About Me</h1>
-
 <p align="center">
-  <b>Nama :</b> <img src="https://img.shields.io/badge/Gerry%20Hasrom-white?style=for-the-badge&logoColor=black" alt="Gerry Hasrom"/> <br><br>
-  <b>Asal :</b> <img src="https://img.shields.io/badge/Sangatta-red?style=for-the-badge&logoColor=white" alt="Sangatta"/> <br><br>
-  <b>Hobi :</b> <img src="https://img.shields.io/badge/Bermain%20Game%20%26%20Mendengarkan%20Musik-orange?style=for-the-badge&logoColor=white" alt="Hobi"/>
+  <img src="assets/biodata.png" alt="Biodata Gerry Hasrom" />
 </p>
 
-
-
-
-
 ---
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gerryhasrom&theme=highcontrast)](https://git.io/streak-stats)
 
