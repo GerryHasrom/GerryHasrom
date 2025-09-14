@@ -80,9 +80,7 @@
 
 ---
 
-<p align="center">
-  <b><big>🌐 Connect with Me</big></b>
-</p>
+<h1 align="center">🌐 Connect with Me</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
