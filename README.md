@@ -59,6 +59,7 @@
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/> MySQL
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/> Firebase
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/> PHP
     </td>
   </tr>
   <tr>
@@ -68,6 +69,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
