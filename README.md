@@ -70,9 +70,22 @@
   </tr>
 </table>
 
+---
 
+<h1 align="center">👤 About Me</h1>
 
+<p align="center">
+  <b>Name:</b> Gerry Hasrom <br>
+  <b>Origin:</b> Kutai Timur, Indonesia 🌏 <br>
+  <b>Hobbies:</b> Programming 💻 | Gaming 🎮 | Reading 📚 | Traveling ✈️
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gaming-Yes-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reading-Books-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Traveling-World-purple?style=for-the-badge"/>
+</p>
 
 
 
