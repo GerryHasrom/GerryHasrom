@@ -72,12 +72,13 @@
 
 ---
 
+<h2 align="center"><b>About Me</b></h2>
+
 <p align="center">
-  <img src="assets/biodata.png" alt="Biodata Gerry Hasrom" />
+  <img src="assets/biodata.png" alt="Biodata Gerry Hasrom" width="300" />
 </p>
 
 ---
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gerryhasrom&theme=highcontrast)](https://git.io/streak-stats)
 
